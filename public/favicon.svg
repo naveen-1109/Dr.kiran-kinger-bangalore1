@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Soft vibrant blue circle background -->
+  <circle cx="50" cy="50" r="48" fill="#3b82f6" />
+  <!-- Thick white medical cross -->
+  <path d="M37 20 h26 v17 h17 v26 h-17 v17 h-26 v-17 h-17 v-26 h17 z" fill="white" />
+  <!-- Compassionate deep red heart -->
+  <path d="M50 63 c-11-10 -15-18 -15-24 c0-4.5 3.5-8 8-8 c3 0 5.5 1.5 7 4 c1.5-2.5 4-4 7-4 c4.5 0 8 3.5 8 8 c0 6 -4 14 -15 24" fill="#ef4444" />
+</svg>
